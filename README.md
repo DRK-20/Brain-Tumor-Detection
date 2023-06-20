@@ -21,6 +21,9 @@ The trained CNN model achieved impressive performance on the brain tumor detecti
 To set up the brain tumor detection system locally, follow these steps:
 
 1. Clone this repository to your local machine.
+   
    git clone https://github.com/your-username/brain-tumor-detection.git
+   
 2. Install the required dependencies by running the following command.
+   
    pip install -r requirements.txt
