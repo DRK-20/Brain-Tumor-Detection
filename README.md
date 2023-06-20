@@ -7,6 +7,7 @@ This repository contains a brain tumor detection system implemented using Convol
 
 ## Dataset
 The brain tumor detection system was trained and evaluated on the Brain Tumor MRI Dataset available on Kaggle. The dataset consists of annotated MRI scans of patients with and without brain tumors, providing a valuable resource for training and testing the model.
+
 Dataset Link - https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?select=Testing
 
 ## Model Architecture
