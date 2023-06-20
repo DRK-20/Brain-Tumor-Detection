@@ -1,6 +1,6 @@
 # Brain Tumor Detection
 
-![image](https://github.com/DRK-20/Brain-Tumor-Detection/assets/97865229/1e9ac9d3-984a-4d21-b31a-a24bdefccbad)
+![image](https://github.com/DRK-20/Brain-Tumor-Detection/assets/97865229/a2ee439b-22ca-4916-bdde-2803799ee6e5)
 
 ## Overview
 This repository contains a brain tumor detection system implemented using Convolutional Neural Networks (CNNs). The system is designed to accurately identify and classify brain tumors in medical images, specifically MRI scans. By leveraging deep learning techniques, the project aims to assist medical professionals in the early diagnosis and treatment planning of brain tumors.
@@ -11,6 +11,7 @@ Dataset Link - https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-
 
 ## Model Architecture
 The brain tumor detection system utilizes a Convolutional Neural Network (CNN) model. CNNs are well-suited for image classification tasks as they can effectively learn hierarchical features and patterns from the input data. The architecture of the CNN model used in this project comprises several convolutional layers, followed by pooling and fully connected layers, enabling the model to learn discriminative features for accurate tumor detection.
+
 ![model](https://github.com/DRK-20/Brain-Tumor-Detection/assets/97865229/bd020c2f-4ddb-44e4-965d-2ede0a0f4b5b)
 
 ## Model Performance
