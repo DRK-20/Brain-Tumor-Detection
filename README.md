@@ -23,7 +23,7 @@ To set up the brain tumor detection system locally, follow these steps:
 
 1. Clone this repository to your local machine.
    
-   git clone https://github.com/your-username/brain-tumor-detection.git
+   git clone https://github.com/DRK-20/Brain-Tumor-Detection.git
    
 2. Install the required dependencies by running the following command.
    
